@@ -11,14 +11,14 @@ import java.util.List;
  */
 public class Zebras {
 
-    //TODO score avant changement joueur, calculé dynamiquement (méthode get Score doit juste prendre la valeur d'un attribut)
-    //TODO trouver idée pour gérer la langue... Tout le code doit être en anglais!
-    //TODO fichier à part pour message anglais français,... , message correspondant lié à un numéro, numéro cherché par une méthode
-    //TODO affichage uniquement des rivières pour séparer les secteurs
-    //TODO affichage plus beau des erreurs, textes court, domaine : (..,..,..)
-    //TODO possibles nouveaux secteurs, changement les plus dynamiques possibles.
-    //TODO optimiser mouvement impala, si pas disp < 3, direct premier possible.
-    //TODO le/la gazelle
+    //TODO @mention score avant changement joueur, calculé dynamiquement (méthode get Score doit juste prendre la valeur d'un attribut)
+    //TODO @mention trouver idée pour gérer la langue... Tout le code doit être en anglais!
+    //TODO @mention fichier à part pour message anglais français,... , message correspondant lié à un numéro, numéro cherché par une méthode
+    //TODO @mention affichage uniquement des rivières pour séparer les secteurs
+    //TODO @mention affichage plus beau des erreurs, textes court, domaine : (..,..,..)
+    //TODO @mention possibles nouveaux secteurs, changement les plus dynamiques possibles.
+    //TODO @mention optimiser mouvement impala, si pas disp < 3, direct premier possible.
+    //TODO @mention le/la gazelle
     public static void play() {
 
         Game game = new Game();
